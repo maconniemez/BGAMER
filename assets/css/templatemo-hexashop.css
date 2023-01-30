@@ -669,7 +669,7 @@ banner
 }
 
 .main-banner .left-content .inner-content h4 {
-  color: #fff;
+  color: rgb(205, 169, 64);
   margin-top: -10px;
   font-size: 52px;
   font-weight: 700;
@@ -708,7 +708,7 @@ banner
 }
 
 .main-banner .right-content .right-first-image .thumb .inner-content h4 {
-  color: #fff;
+  color: rgb(205, 169, 64);
   font-size: 24px;
   font-weight: 700;
   margin-bottom: 15px;
@@ -747,7 +747,7 @@ banner
 }
 
 .main-banner .right-content .right-first-image .thumb .hover-content h4 {
-  color: #fff;
+  color: rgb(205, 169, 64);
   font-size: 24px;
   font-weight: 700;
   margin-bottom: 15px;
@@ -786,7 +786,7 @@ Men
 
 #men .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -947,7 +947,7 @@ Women
 
 #women .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -1107,7 +1107,7 @@ Kids
 
 #kids .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -1334,7 +1334,7 @@ Explore
 #explore .types h4 {
   font-size: 24px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   padding-top: 90px;
   margin-bottom: 5px;
 }
@@ -1527,7 +1527,7 @@ footer ul li a:hover {
 footer h4 {
   letter-spacing: 0.5px;
   font-size: 16px;
-  color: #fff;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 20px;
 }
@@ -1625,7 +1625,7 @@ Products Page
 
 #products .item .down-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 8px;
 }
@@ -1743,7 +1743,7 @@ Single Product Page
 
 #product .right-content h4 {
   font-size: 22px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 0px;
 }
@@ -1834,7 +1834,7 @@ Single Product Page
   float: left;
   font-size: 20px;
   margin-top: 10px;
-  color: #aaa!important;
+  color: rgb(205, 169, 64)!important;
 }
 
 .total .main-border-button {
@@ -1937,7 +1937,7 @@ About Us Page
 .about-us .right-content h4 {
   font-size: 34px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
 }
 
 .about-us .right-content span {
@@ -2080,7 +2080,7 @@ About Us Page
 
 .our-team .team-item .down-content h4 {
   font-size: 24px;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   font-weight: 700;
   margin-bottom: 5px;
 }
@@ -2123,7 +2123,7 @@ About Us Page
 .our-services .service-item h4 {
   font-size: 24px;
   font-weight: 700;
-  color: #2a2a2a;
+  color: rgb(205, 169, 64);
   margin-bottom: 20px;
 }
 
