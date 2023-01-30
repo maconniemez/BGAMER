@@ -318,7 +318,7 @@ header
 
 .header-area .main-nav .nav li:hover a,
 .header-area .main-nav .nav li a.active {
-  color: #aaa!important;
+  color: rgb(205, 169, 64)!important;
 }
 
 .background-header .main-nav .nav li:hover a,
