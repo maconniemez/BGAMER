@@ -1583,10 +1583,13 @@ Products Page
 .page-heading {
   margin-top: 160px;
   margin-bottom: 30px;
-  background-image: url(../images/products-page-heading.jpg);
+  background-image: url(../images/gamer2.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
+}
+.titof{
+  color: rgb(253, 193, 13)!important;
 }
 
 .page-heading .inner-content {
