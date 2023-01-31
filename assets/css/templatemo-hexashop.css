@@ -201,9 +201,12 @@ body {
   font-style: italic;
   font-weight: 400;
 }
-
-
-
+.descini{
+  padding: 10px;
+}
+.quotes{
+  text-align: justify;
+}
 /* 
 ---------------------------------------------
 header
@@ -1589,7 +1592,7 @@ Products Page
   background-repeat: no-repeat;
 }
 .titof{
-  color: rgb(253, 193, 13)!important;
+  color: rgb(205, 169, 64)!important;
 }
 
 .page-heading .inner-content {
@@ -1736,7 +1739,7 @@ About Us Page
 .about-page-heading {
   margin-top: 160px;
   margin-bottom: 30px;
-  background-image: url(../images/about-us-page-heading.jpg);
+  background-image: url(../images/about-us-page-heading.png);
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
